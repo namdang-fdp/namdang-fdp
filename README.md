@@ -27,7 +27,8 @@ I'm a Fullstack developer.
 ![SpringBoot](https://img.shields.io/badge/Springboot-SB2309?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
+![ThreeJS](https://camo.githubusercontent.com/fa87526c0a0797fc730a891d1aef2d5a2730feababa9e02e39a6c25d8a3466a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54687265655f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7468726565646f746a7326636f6c6f723d303030303030)
+![Gsap](https://camo.githubusercontent.com/08fce47b03ba015377ea8bc5f6df9c2335569ba7517ab3915d01474ecf0adc89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d475341502d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d677265656e736f636b26636f6c6f723d383843453032)
 ### **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
