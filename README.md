@@ -35,6 +35,9 @@ I'm a Fullstack developer.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=namdang-fdp&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 
