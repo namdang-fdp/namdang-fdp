@@ -7,7 +7,7 @@ I'm a Fullstack developer.
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=namdang-fdp&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdang-fdp&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=html,css,scss)
-![](https://github-readme-streak-stats.herokuapp.com/?user=namdang-fdp&theme=dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=namdang-fdp&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ## 🦀 About Me  
 
